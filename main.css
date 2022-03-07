@@ -1,0 +1,23 @@
+.incBtn{
+    user-select: none;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5%;
+    height: 35px;
+    width: 200px;
+    border-radius: 10px; 
+    border: 1px black;
+    border-bottom:2px black solid;
+    border-right:2px black solid;
+    color: black;
+    background-color: #19a5f7;
+    box-shadow: 2px;
+}
+
+.incBtn:hover{
+    background-color: aquamarine;
+}
+
+.incBtn:active{
+    border: none;
+}
